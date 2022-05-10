@@ -1,0 +1,3 @@
+packages:
+  ./foo/foo.cabal
+  ./plugin/plugin.cabal

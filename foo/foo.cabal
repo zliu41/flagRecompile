@@ -1,0 +1,13 @@
+cabal-version:      2.4
+name:               foo
+version:            0.1.0.0
+
+author:             Ziyang Liu
+maintainer:         unsafeFixIO@gmail.com
+extra-source-files: CHANGELOG.md
+
+library
+    exposed-modules:
+        Foo
+    build-depends:
+        base
